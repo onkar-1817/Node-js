@@ -1,4 +1,4 @@
-  GNU nano 5.8                                                             Dockerfile                                                                       # Use an official Node.js runtime as a base image
+# Use an official Node.js runtime as a base image
 FROM node:21
 
 # Set the working directory in the container
